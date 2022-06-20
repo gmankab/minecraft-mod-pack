@@ -1,0 +1,23 @@
++---------------------+-------+---------+----------------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++---------------------+-------+---------+----------------+
+| Item                | Total | Missing |      Available |
++---------------------+-------+---------+----------------+
+| White Stained Glass |   832 |     832 |              0 |
+| Torch               |    12 |      12 |              0 |
+| Spruce Fence Gate   |    11 |      11 |              0 |
+| Chest               |     8 |       8 |              0 |
+| Cobblestone Stairs  |     7 |       7 |              0 |
+| String              |     7 |       7 |              0 |
+| Cobblestone         |     6 |       6 |              0 |
+| Redstone Dust       |     6 |       6 |              0 |
+| Hopper              |     4 |       4 |              0 |
+| Cobblestone Slab    |     3 |       3 |              0 |
+| Water Bucket        |     3 |       3 |              0 |
+| Cobblestone Wall    |     2 |       2 |              0 |
+| Spruce Trapdoor     |     2 |       2 |              0 |
+| Tripwire Hook       |     2 |       2 |              0 |
+| Soul Sand           |     1 |       1 |              0 |
++---------------------+-------+---------+----------------+
+| Item                | Total | Missing |      Available |
++---------------------+-------+---------+----------------+

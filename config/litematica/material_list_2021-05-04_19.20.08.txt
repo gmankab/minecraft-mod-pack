@@ -1,0 +1,35 @@
++--------------------------+-------+---------+-----------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+
+| Obsidian                 | 35280 |   35280 |         0 |
+| Stone                    |  6057 |    6057 |         0 |
+| Smooth Stone Slab        |  3784 |    3784 |         0 |
+| Spruce Trapdoor          |   791 |     791 |         0 |
+| Torch                    |   223 |     223 |         0 |
+| Scaffolding              |    90 |      90 |         0 |
+| Chest                    |    80 |      80 |         0 |
+| Hay Bale                 |    60 |      60 |         0 |
+| White Carpet             |    60 |      60 |         0 |
+| Hopper                   |    58 |      58 |         0 |
+| Stone Button             |    32 |      32 |         0 |
+| Stone Slab               |    22 |      22 |         0 |
+| Stone Brick Wall         |    20 |      20 |         0 |
+| Turtle Egg               |    16 |      16 |         0 |
+| Ladder                   |    15 |      15 |         0 |
+| Observer                 |     4 |       4 |         0 |
+| Redstone Comparator      |     3 |       3 |         0 |
+| Redstone Dust            |     3 |       3 |         0 |
+| White Stained Glass Pane |     3 |       3 |         0 |
+| Dropper                  |     2 |       2 |         0 |
+| Jungle Leaves            |     2 |       2 |         0 |
+| Rail                     |     2 |       2 |         0 |
+| Sticky Piston            |     2 |       2 |         0 |
+| Water Bucket             |     2 |       2 |         0 |
+| Lava Bucket              |     1 |       1 |         0 |
+| Redstone Repeater        |     1 |       1 |         0 |
+| Redstone Torch           |     1 |       1 |         0 |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+

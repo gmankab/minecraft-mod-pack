@@ -1,0 +1,29 @@
++---------------------+-------+---------+----------------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++---------------------+-------+---------+----------------+
+| Item                | Total | Missing |      Available |
++---------------------+-------+---------+----------------+
+| Cobblestone         |   190 |     190 |             64 |
+| Cobblestone Slab    |    51 |      51 |              1 |
+| Obsidian            |    49 |      49 |              0 |
+| Lava Bucket         |    32 |      32 |              0 |
+| Torch               |    22 |      22 |             66 |
+| Scaffolding         |    16 |      16 |              0 |
+| Water Bucket        |    13 |      13 |              0 |
+| Redstone Repeater   |     9 |       9 |              0 |
+| Redstone Dust       |     8 |       8 |              2 |
+| Slime Block         |     6 |       6 |             64 |
+| Spruce Trapdoor     |     3 |       3 |              0 |
+| Dead Horn Coral Fan |     1 |       1 |              0 |
+| Detector Rail       |     1 |       1 |              0 |
+| Ender Chest         |     1 |       1 |              0 |
+| Lever               |     1 |       1 |              0 |
+| Observer            |     1 |       1 |              1 |
+| Redstone Comparator |     1 |       1 |              0 |
+| Spruce Fence Gate   |     1 |       1 |              0 |
+| Sticky Piston       |     1 |       1 |              1 |
+| Stone Brick Wall    |     1 |       1 |              0 |
+| TNT                 |     1 |       1 |              0 |
++---------------------+-------+---------+----------------+
+| Item                | Total | Missing |      Available |
++---------------------+-------+---------+----------------+
