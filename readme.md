@@ -1,15 +1,18 @@
 # minecraft-mod-pack 1.19
 
-[download full-pack]
+[download full-pack](https://github.com/gmankab/minecraft-mod-pack/raw/main/minecraft-mod-pack.zip)  
 unpack to `.minecraft/`
 
-[download only resourcepacks]
+[download only resourcepacks](https://github.com/gmankab/minecraft-mod-pack/raw/main/resourcepacks.zip)  
 unpack to `.minecraft/resourcepacks/`
 
-[download only mods]
+[download only schematics](https://github.com/gmankab/minecraft-mod-pack/raw/main/schematics.zip)  
+unpack to `.minecraft/schematics/`
+
+[download only mods](https://github.com/gmankab/minecraft-mod-pack/raw/main/mods.zip)  
 unpack to `.minecraft/mods/`
 
-[download only configs for mods]
+[download only configs for mods](https://github.com/gmankab/minecraft-mod-pack/raw/main/config.zip)  
 unpack to `.minecraft/config/`
 
 please also see this vanillatweaks.net/picker/resource-packs
